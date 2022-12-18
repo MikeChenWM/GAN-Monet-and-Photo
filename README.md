@@ -15,18 +15,14 @@ Please follow the instruction in the `gan-monet-photo.ipynb`
 - Monet generator
 ![image](https://user-images.githubusercontent.com/75918977/208309951-8802fa57-251c-48b4-bf96-16df2fc4b4aa.png)
 
-![image](https://user-images.githubusercontent.com/75918977/208310082-e634d7a8-13bc-4a43-93d3-f7b1e6b6438b.png)
-
   - Monet generator Loss:
-  ![image](https://user-images.githubusercontent.com/75918977/208310140-66ea6d30-9d34-4464-8ede-2214c5d376db.png)
+  - ![image](https://user-images.githubusercontent.com/75918977/208310140-66ea6d30-9d34-4464-8ede-2214c5d376db.png)
 
 - Photo generator:
 ![image](https://user-images.githubusercontent.com/75918977/208310163-1db316aa-cb34-43cb-9ba8-1311e9847b26.png)
 
-![image](https://user-images.githubusercontent.com/75918977/208310180-992bb2c3-bc6e-4a28-b836-4cee262567a1.png)
-
   - Photo generator Loss:
-  ![image](https://user-images.githubusercontent.com/75918977/208310190-5cab52ab-248b-407c-8baf-e3da5112b5b8.png)
+  - ![image](https://user-images.githubusercontent.com/75918977/208310190-5cab52ab-248b-407c-8baf-e3da5112b5b8.png)
   
 ### Conclusion:
 - The binary cross entropy losses for both Monet generator and Photo generator are decreasing. 
@@ -41,6 +37,7 @@ Please follow the instruction in the `gan-monet-photo.ipynb`
     - (such as Encoder-Transformer-Decoder)
 
 ### Reference:
-https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Tomei_What_was_Monet_seeing_while_painting_Translating_artworks_to_photo-realistic_ECCVW_2018_paper.pdf
-https://arxiv.org/abs/1907.10830
-https://arxiv.org/abs/1703.10593
+- https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf
+- https://www.kaggle.com/competitions/gan-getting-started
+- https://junyanz.github.io/CycleGAN/
+- https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Tomei_What_was_Monet_seeing_while_painting_Translating_artworks_to_photo-realistic_ECCVW_2018_paper.pdf
