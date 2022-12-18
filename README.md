@@ -1,5 +1,5 @@
 # Convert real-world photos between Monet painting  
-Team members: Weimeng Chen, Ivy Cheng
+Team members: Weimeng Chen(wc1589), Ivy Cheng(yc3824)
 ### Description:
 We generate a photo-realistic image representing the same content without leveraging paired training data with CycleGANs approach: Convert real-world photos to similar Monet paintings (style) and Convert Monet paintings to real-world photos(style). We want to increase the realism of generated images in image-to-image translation and show what reality the artist was observing or imagining while drawing.
 ### Repository and Code Structure:
