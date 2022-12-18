@@ -7,8 +7,10 @@ We generate a photo-realistic image representing the same content without levera
 - `evaluation img` folder contains evaluation of the generator models including how good is the generator cycle. We get a photo to generate a Monet picture from it, then use the generated picture to generate the original photo.
 - Data: https://www.kaggle.com/competitions/gan-getting-started/data
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/75918977/208309523-2a2618a2-f6a8-4e36-a0b1-3110bfebb7be.png">
+
 ### Example commands to execute the code:
 Please follow the instruction in the `gan-monet-photo.ipynb`
+
 ### Results:
 ![image](https://user-images.githubusercontent.com/75918977/208309951-8802fa57-251c-48b4-bf96-16df2fc4b4aa.png)
 
