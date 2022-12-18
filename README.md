@@ -9,7 +9,9 @@ We generate a photo-realistic image representing the same content without levera
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/75918977/208309523-2a2618a2-f6a8-4e36-a0b1-3110bfebb7be.png">
 
 ### Example commands to execute the code:
-Please follow the instruction in the `gan-monet-photo.ipynb`
+- Please run the notebook on Kaggle since the data is imported from Kaggle
+- TPU execution is recommended
+- Please follow the instruction in the `gan-monet-photo.ipynb`
 
 ### Results:
 - Monet generator
