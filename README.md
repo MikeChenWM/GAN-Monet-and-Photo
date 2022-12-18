@@ -10,6 +10,8 @@ We generate a photo-realistic image representing the same content without levera
 ### Example commands to execute the code:
 Please follow the instruction in the `gan-monet-photo.ipynb`
 ### Results:
+![image](https://user-images.githubusercontent.com/75918977/208309951-8802fa57-251c-48b4-bf96-16df2fc4b4aa.png)
+
 
 
 
